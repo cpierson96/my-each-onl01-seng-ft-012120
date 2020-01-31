@@ -5,7 +5,6 @@ def my_each(collection)
  yield (collection[i])
  #puts each. do collection
  i +=1 
- puts i 
 end
 collection
 end
