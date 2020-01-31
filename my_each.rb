@@ -3,7 +3,7 @@ def my_each(collection)
  i= 0 
  while i>=4
  yield #(collection[i])
- puts 
+ puts collection
  i = i+ 1 
 end
 collection
