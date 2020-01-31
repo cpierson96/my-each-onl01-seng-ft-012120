@@ -6,5 +6,5 @@ def my_each(collection)
  #puts each. do collection
  i +=1 
 end
-collection
+puts collection
 end
